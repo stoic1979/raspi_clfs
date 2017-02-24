@@ -12,6 +12,9 @@ wget http://cross-lfs.org/files/packages/embedded-0.0.1/clfs-embedded-bootscript
 # GCC
 wget ftp://gcc.gnu.org/pub/gcc/releases/gcc-4.6.0/gcc-4.6.0.tar.bz2
 
+# M4 - needed by GMP
+wget http://ftp.gnu.org/gnu/m4/m4-1.4.17.tar.xz
+
 # GMP
 wget http://ftp.gnu.org/gnu/gmp/gmp-5.0.1.tar.bz2
 
